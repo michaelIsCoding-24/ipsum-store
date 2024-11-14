@@ -22,9 +22,14 @@ a:hover{
     color:#8084ff;
 }
 
-h1, h3 {
+h1 {
     color:#8084ff;
     font-size: 50px;
+}
+
+h3 {
+    color:#8084ff;
+    font-size: 30px;
 }
 
 /* centers the "main" class headers on all pages */
