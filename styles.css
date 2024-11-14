@@ -1,12 +1,28 @@
-/*test styles to ensure each page is connected*/
-.about{
-    background-color: aqua;
-}
-
-.contact{
-    background-color: aqua;
-}
-
+/* centers the shirt table, makes the text within larger to make it easier to read */
 .shirt-table{
-    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+/* centers the prices within the shirt table, makes them a neat purple for contrast, using class selectors*/
+.price{
+    text-align: center;
+    color: #8084ff;
+}
+
+/* Centers the three page links on all pages using class selectors */
+.page-select{
+    text-align: center;
+}
+
+/* Makes the background of each page black, using element selector 
+body {
+    background-color: black;
+} */
+
+
+/* centers the main headers on all pages */
+.main {
+    text-align: center;
 }
